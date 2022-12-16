@@ -1,0 +1,67 @@
+
+/* BACKGROUND */
+
+body {
+background-repeat: no-repeat;
+background-size: cover;
+background-color: aliceblue;
+
+}
+
+
+/* HEADINGS */
+
+h1, h2 {
+    margin-top: 5%;
+    text-align: center;
+}
+
+#count-el{
+    color: brown;
+}
+
+
+
+/* BUTTONS */
+
+button {
+    border-radius: 10%;
+    width: 20%;
+    padding: 10px;
+    
+}
+
+
+
+#increment-btn {
+    background-color: crimson;
+    text-align: center;
+}
+
+#reset-btn {
+    background-color: azure;
+}
+
+#save-btn {
+    background-color: green;
+}
+
+#increment-btn:active {
+    background-color: aqua;
+}
+#reset-btn:active {
+    background-color: aqua;
+}
+#save-btn:active {
+    background-color: aqua;
+}
+
+.button-container{
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#save-el {
+    color: brown;
+    font-weight: 600;
+}
